@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2011.10.9)  13 NOV 2011 13:34
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2011.10.9)  13 NOV 2011 15:44
 entering extended mode
  %&-line parsing enabled.
 **arbeitsbericht.tex
@@ -505,53 +505,51 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
-)
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
+) [1
 
-(/usr/share/texmf/tex/latex/base/omscmr.fd
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] <bonus.png, id=77, 1371.
+1225pt x 770.88pt>
+File: bonus.png Graphic file (type png)
+
+<use bonus.png>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+ (/usr/share/texmf/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
 
-Overfull \hbox (64.63142pt too wide) in paragraph at lines 48--49
+Overfull \hbox (64.63142pt too wide) in paragraph at lines 69--70
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[1
-
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<gtkwave_mynand.png, id=66, 758.835pt x 472.01344pt>
+[2 <./bonus.png (PNG copy)>]
+<gtkwave_mynand.png, id=89, 758.835pt x 472.01344pt>
 File: gtkwave_mynand.png Graphic file (type png)
  <use gtkwave_mynand.png>
-Overfull \hbox (17.0pt too wide) in paragraph at lines 54--56
-[][]
- []
-
-
-Overfull \hbox (62.33856pt too wide) in paragraph at lines 61--70
+Overfull \hbox (62.33856pt too wide) in paragraph at lines 81--90
 [] 
  []
 
 
-Overfull \hbox (62.33856pt too wide) in paragraph at lines 73--81
+Overfull \hbox (62.33856pt too wide) in paragraph at lines 93--101
 [] 
  []
 
 
-Overfull \hbox (62.33856pt too wide) in paragraph at lines 84--93
+Overfull \hbox (62.33856pt too wide) in paragraph at lines 104--113
 [] 
  []
 
-[2 <./gtkwave_mynand.png>] [3] (./arbeitsbericht.aux) ) 
+[3 <./gtkwave_mynand.png>] [4] (./arbeitsbericht.aux) ) 
 Here is how much of TeX's memory you used:
- 5894 strings out of 256216
- 74518 string characters out of 1917072
- 136257 words of memory out of 1500000
- 9083 multiletter control sequences out of 10000+200000
+ 5910 strings out of 256216
+ 74765 string characters out of 1917072
+ 137257 words of memory out of 1500000
+ 9091 multiletter control sequences out of 10000+200000
  15245 words of font info for 45 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,9n,36p,412b,1228s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 27i,9n,36p,629b,1752s stack positions out of 5000i,500n,6000p,200000b,15000s
  </home/sarah/.texlive20
 07/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/sarah/.texlive2
 007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/sarah/.texlive
@@ -560,9 +558,9 @@ e2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/sarah/.texli
 ve2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/sarah/.texl
 ive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texmf/
 fonts/type1/bluesky/cm/cmsy10.pfb>
-Output written on arbeitsbericht.pdf (3 pages, 132458 bytes).
+Output written on arbeitsbericht.pdf (4 pages, 193619 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 131072)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 353 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 131072)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
