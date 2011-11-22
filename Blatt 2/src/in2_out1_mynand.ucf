@@ -1,0 +1,3 @@
+NET "a" LOC = J17;
+NET "b" LOC = J15;
+NET "c" LOC = P18;
