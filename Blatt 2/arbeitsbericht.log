@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2011.10.9)  22 NOV 2011 18:00
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2011.10.9)  22 NOV 2011 18:13
 entering extended mode
  %&-line parsing enabled.
 **arbeitsbericht.tex
@@ -520,419 +520,414 @@ pdfTeX warning: pdflatex (file ./partosBild.pdf): PDF inclusion: found PDF vers
 ion <1.5>, but at most version <1.4> allowed
 <partosBild.pdf, id=39, 420.04874pt x 59.45303pt>
 File: partosBild.pdf Graphic file (type pdf)
- <use partosBild.pdf>
-Overfull \hbox (178.46707pt too wide) in paragraph at lines 38--40
-\T1/cmr/m/n/10.95 die im Quell-text ver-wen-de-ten Si-gna-le. [] 
- []
-
-[1
+ <use partosBild.pdf> [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./partosBild.pdf
 
 pdfTeX warning: pdflatex (file ./partosBild.pdf): PDF inclusion: Page Group det
 ected which pdfTeX can't handle. Ignoring it.
 >] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 []\T1/cmr/m/n/10.95 noch nicht in
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 62--62
+Underfull \hbox (badness 6995) in paragraph at lines 63--63
 \T1/cmr/m/n/10.95 li-chen Pro-jek-ten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 []\T1/cmr/m/n/10.95 Multicore und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 \T1/cmr/m/n/10.95 RF/Wi-re-less,
  []
 
 
-Overfull \hbox (13.97375pt too wide) in paragraph at lines 62--62
+Overfull \hbox (13.97375pt too wide) in paragraph at lines 63--63
 []\T1/cmr/m/n/10.95 selbstkonfigurierende
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 []\T1/cmr/m/n/10.95 basierend
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []\T1/cmr/m/n/10.95 leichter er-lern-
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 66--66
+Underfull \hbox (badness 7256) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 bar als VHDL,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 schnel-le, sim-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 ple Um-set-zung,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 Ein-fluss-mög-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 lich-kei-ten auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 der Gat-ter-e-be-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 (UDP), kei-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 stren-ge Ty-p-prü-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []\T1/cmr/m/n/10.95 groÿer Sprach-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 schatz, hö-her
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 an-ge-sie-delt (bis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 zur Sys-te-me-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 be-ne), star-ke
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 Ty-pi-sie-rung,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 Wie-der-ver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 wend-bar-keit,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []\T1/cmr/m/n/10.95 schnelle Si-mu-la-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 66--66
+Underfull \hbox (badness 3168) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 tio-nen, naht-lo-ser
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 Top-Down-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []\T1/cmr/m/n/10.95 kann als Ba-sis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 wer-den (Neu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 ro-na-le Net-ze),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 kann dy-na-misch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []\T1/cmr/m/n/10.95 kostenlos, leicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/cmr/m/n/10.95 kon-fi-gu-rier-bar,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []\T1/cmr/m/n/10.95 geringerer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 Sprach-schatz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []\T1/cmr/m/n/10.95 schwerer er-lern-
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 68--68
+Underfull \hbox (badness 4927) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 bar als Ve-ri-log,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 auf Hard-wa-ree-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 be-ne rea-li-sie-ren
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []\T1/cmr/m/n/10.95 syntaktischer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 Over-head, man-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 geln-de An-ge-bot
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 an Syn-the-se-
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 68--68
+Underfull \hbox (badness 1968) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 werk-zeu-gen, kein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 Po-wer-ma-na-ge-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []\T1/cmr/m/n/10.95 geringe Ver-brei-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []\T1/cmr/m/n/10.95 JVM be-nö-tigt,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 man Wi-ne zur
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 Bit-stre-am-ge-ne-rie-
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 68--69
+Underfull \hbox (badness 1137) in paragraph at lines 69--70
 \T1/cmr/m/n/10.95 in der In-dus-trie,
  []
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 68--69
+Underfull \hbox (badness 7415) in paragraph at lines 69--70
 \T1/cmr/m/n/10.95 ge-rin-ger Sprach-
  []
 
 
-Overfull \hbox (57.2548pt too wide) in paragraph at lines 59--70
+Overfull \hbox (57.2548pt too wide) in paragraph at lines 60--71
 [] 
  []
 
 
-Overfull \hbox (7.27406pt too wide) in paragraph at lines 75--75
+Overfull \hbox (7.27406pt too wide) in paragraph at lines 76--76
 []\T1/cmr/m/n/10.95 Verbreitungs-
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 75--75
+Underfull \hbox (badness 2080) in paragraph at lines 76--76
 []\T1/cmr/m/n/10.95 sehr hoch, welt-
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 75--75
+Underfull \hbox (badness 1215) in paragraph at lines 76--76
 \T1/cmr/m/n/10.95 weit, ins-be-son-de-
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 75--75
+Underfull \hbox (badness 2941) in paragraph at lines 76--76
 \T1/cmr/m/n/10.95 tends-te HDL in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 []\T1/cmr/m/n/10.95 De-facto-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 \T1/cmr/m/n/10.95 Standard im
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 \T1/cmr/m/n/10.95 Be-reich IP-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 \T1/cmr/m/n/10.95 Nutzung und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 \T1/cmr/m/n/10.95 System-Level-
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 76--77
+Underfull \hbox (badness 1337) in paragraph at lines 77--78
 []\T1/cmr/m/n/10.95 nur in der Leh-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []\T1/cmr/m/n/10.95 Synthese-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 []\T1/cmr/m/n/10.95 Xilinx, Syn-plify
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 []\T1/cmr/m/n/10.95 SystemC-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 \T1/cmr/m/n/10.95 Compiler von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/cmr/m/n/10.95 ursprünglich Si-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 mu-la-ti-onss-pra-che,
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 81--81
+Underfull \hbox (badness 2181) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 seit 1995 IEEE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 Standard, lan-ge
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 81--81
+Underfull \hbox (badness 2181) in paragraph at lines 82--82
 []\T1/cmr/m/n/10.95 seit 1987 IEEE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/cmr/m/n/10.95 Firmenunter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 ter-ent-wick-lung,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 Spra-cher-wei-te-
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 81--81
+Underfull \hbox (badness 7256) in paragraph at lines 82--82
 []\T1/cmr/m/n/10.95 Teil des V2000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 open si-mu-la-tor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 pro-ject, 1:1 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 Map-ping, Spra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\T1/cmr/m/n/10.95 Open-Source,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 \T1/cmr/m/n/10.95 Spra-cher-wei-te-
  []
 
 
-Overfull \hbox (5.00499pt too wide) in paragraph at lines 83--83
+Overfull \hbox (5.00499pt too wide) in paragraph at lines 84--84
 []\T1/cmr/m/n/10.95 Entwurfsjahr| 
  []
 
 
-Overfull \hbox (74.2548pt too wide) in paragraph at lines 72--85
+Overfull \hbox (74.2548pt too wide) in paragraph at lines 73--86
 [][] 
  []
 
@@ -957,7 +952,7 @@ k/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texmf/fonts/type1/bluesky/cm/cm
 mi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/f
 onts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr8.p
 fb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb>
-Output written on arbeitsbericht.pdf (4 pages, 109800 bytes).
+Output written on arbeitsbericht.pdf (4 pages, 109794 bytes).
 PDF statistics:
  324 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 131072)
